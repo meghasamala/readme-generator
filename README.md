@@ -1,24 +1,25 @@
+
 # ReadMe Generator
-    ## Description
-    This is a JavaScript Node.js application that generates a ReadMe file
-    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Contact](#contact)
-    ## Installation
+## Description
+This is an application that creates ReadMe files using Node.js
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Contact](#contact)
+## Installation
+
+## Usage
+
+ ## License
     
-    ## Usage
     
-     ## License
+## Contributing
+
+## Tests
+
+## Contact
+GitHub: https://github.com/meghasamala or Email: msamala21@gmail.com
     
-    
-    ## Contributing
-    
-    ## Tests
-    
-    ## Contact
-    GitHub: https://github.com/meghasamala</br>
-    Email: msamala21@gmail.com
